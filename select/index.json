@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "朝焼け",
+  "base_artist": "TOOBOE",
+  "createdAt": "2026-02-08T08:02:41.947940Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝焼け",
+      "artist": "カシオペア",
+      "has_synced": false,
+      "path": "select/01_朝焼け_カシオペア.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝焼け [Asayake (Sunrise)]",
+      "artist": "Casiopea",
+      "has_synced": false,
+      "path": "select/02_朝焼け_[Asayake_(Sunrise)]_Casiopea.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "朝焼け",
+      "artist": "Creepy Nuts",
+      "has_synced": true,
+      "path": "select/03_朝焼け_Creepy_Nuts.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "朝焼け",
+      "artist": "Casiopea",
+      "has_synced": false,
+      "path": "select/04_朝焼け_Casiopea.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "朝焼け、君の唄。",
+      "artist": "鹿乃",
+      "has_synced": true,
+      "path": "select/05_朝焼け、君の唄。_鹿乃.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "朝焼け、君の唄。",
+      "artist": "ナノウ(ほえほえP) feat. 佳仙",
+      "has_synced": true,
+      "path": "select/06_朝焼け、君の唄。_ナノウ(ほえほえP)_feat._佳仙.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝焼け",
+      "artist": "TOOBOE",
+      "has_synced": false,
+      "path": "select/pl_01_朝焼け_TOOBOE.txt"
+    }
+  ]
+}
